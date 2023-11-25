@@ -3,4 +3,6 @@ Integrate RabbitMQ seamlessly into Express.js. This repo simplifies messaging fo
 
 
 1: App 1 includes the provider implementaion for rabbit mq.
+
+
 2: Move to App 1 folder and install required dependencies with package.json
